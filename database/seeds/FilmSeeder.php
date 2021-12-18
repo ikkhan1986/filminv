@@ -16,7 +16,7 @@ class FilmSeeder extends Seeder
             [
                 'name' => 'film1',
                 'year' => '2019',
-                'overview' => 'film1film1film1film1film1film1film1film1film1film1film1film1',
+                'overview' => 'abccccccabccccccabccccccabccccccabccccccabccccccabcccccc',
                 'background_cover' => 'film_background_covers/film-bg.jpg',
                 'poster' => 'film_posters/film-poster.jpg',
                 'price' => 22,
@@ -26,7 +26,7 @@ class FilmSeeder extends Seeder
             [
                 'name' => 'film2',
                 'year' => '2020',
-                'overview' => 'film2film2film2film2film2film2film2film2film2film2film2film2',
+                'overview' => 'abcccccabccccccabccccccabccccccabccccccabccccccc',
                 'background_cover' => 'film_background_covers/film-bg.jpg',
                 'poster' => 'film_posters/film-poster.jpg',
                 'price' => 23,
